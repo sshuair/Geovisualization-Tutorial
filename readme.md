@@ -14,4 +14,4 @@
     - [GeoHey](www.geohey.com)
 2. 实践素材
     - 实践一：[2016年美国大选地图](./practice/practice-01-美国大选)
-    - 实践二：[2014年DJA获奖作品:MigrantsFiles](./practice/practice-02-Migrants Files)
+    - 实践二：[2014年DJA获奖作品:MigrantsFiles](./practice/practice-02-MigrantsFiles)
