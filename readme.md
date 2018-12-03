@@ -1,4 +1,4 @@
-# 地理数据可视化简明教程
+# 地理数据可视化简明教程（持续更新...）
 
 人大新闻专业地理数据可视化课程素材
 
@@ -22,5 +22,5 @@
 
 
 ## Q&A
-- 如果大家在学习的过程中，有任何困难或者不明白的地方，可以到[issues](https://github.com/sshuair/Geovisualization-Tutorial/issues)中提问。
+- 如果大家在学习的过程中，有任何困难或者不明白的地方，可以到[issues](https://github.com/sshuair/Geovisualization-Tutorial/issues)中提问，我会尽自己所知为大家解答，知道的同学也可以帮着回答。
 - 同时也欢迎大家为教程做贡献，可以提交[Pull requests](https://github.com/sshuair/Geovisualization-Tutorial/pulls)贡献内容。
