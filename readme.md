@@ -10,7 +10,7 @@
 
 ## 课程素材
 1. 幻灯片：[Geovisualization.pptx](./Geovisualization.pptx)
-2. 软件：
+2. 课程软件：
     - QGIS: [安装教程](./QGIS.md)
     - [GeoHey](https://geohey.com)
 3. 实践素材
