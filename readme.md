@@ -19,3 +19,8 @@
 
 ## 如何下载
 ![](assets/github-download.png)
+
+
+## Q&A
+- 如果大家在学习的过程中，有任何困难或者不明白的地方，可以到[issues](https://github.com/sshuair/Geovisualization-Tutorial/issues)中提问。
+- 同时也欢迎大家为教程做贡献，可以提交[Pull requests](https://github.com/sshuair/Geovisualization-Tutorial/pulls)贡献内容。
