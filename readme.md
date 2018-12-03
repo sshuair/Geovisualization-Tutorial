@@ -6,7 +6,8 @@
 1. 地理数据
 2. 地理数据可视化基本方法
 3. 地图投影
-4. 案例实践
+4. 地图注意事项（边界政治问题）
+5. 案例实践
 
 ## 课程素材
 1. 幻灯片：[Geovisualization.pptx](./Geovisualization.pptx)
