@@ -1,9 +1,9 @@
 ## QGIS
-[QGIS]()是一个开源的地理数据处理、分析、制图工具，可以免费获取和使用，支持Window、MacOS、Linux三大主流操作系统。
+[QGIS](https://www.qgis.org/en/site/index.html)是一个开源的地理数据处理、分析、制图工具，可以免费获取和使用，支持Window、MacOS、Linux三大主流操作系统。
 ### QGIS 安装
 QGIS目前有两个重大版本，分别是`QGIS2`和`QGIS3`，其中QGIS2是老版本，稳定，插件较多，QGIS3是目前最新的版本，技术体系升级界面更美观，但是相对稳定性不如2系列，并且MacOS用户安装较为困难。
 
-QGIS 下载链接: https://www.qgis.org/en/site/forusers/download.html
+**QGIS 下载链接**: https://www.qgis.org/en/site/forusers/download.html
 
 这里推荐大家下载最新版本的QGIS，也就是QGIS3.4
 ![](./assets/qgis-download.jpeg)
