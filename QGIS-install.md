@@ -8,7 +8,7 @@ QGIS目前有两个重大版本，分别是`QGIS 2`和`QGIS3 `，其中QGIS2是�
 这里推荐大家下载最新版本的QGIS，也就是 QGIS 3.6
 
 
-## Windows
+## Windows安装
 Windows的用户可以按照自己的系统下载对于版本，如图所示
 ![](./assets/qgis-download-windows.png)
 
@@ -17,10 +17,10 @@ Windows的用户可以按照自己的系统下载对于版本，如图所示
 3. 安装完成后，在开始菜单中检查是否有`QGIS Desktop`，这个就是QGIS软件；
 
 
-## MacOS
+## MacOS安装
 ![](./assets/qgis-download-mac.png)
 
-## QGIS3安装
+### QGIS3安装(MacOS)
 MacOS的用户在安装QGIS3前，需要先安装依赖[Python3.6](https://www.python.org/downloads/release/python-368/)，注意python3.7不可以，一定是Python3.6。
 ![](assets/python3.png)
 
@@ -30,7 +30,7 @@ QGIS3 安装好之后，可在菜单栏`settings`-->`Options`中将界面改成�
 ![](assets/qgis3-chinese.jpg)
 
 
-## QGIS2安装
+### QGIS2安装(MacOS)
 QGIS2系列不需要先安装python，直接打开安装包，然后按照
 - `1 GDAL Compelete.pkg`  
 - `2 NumPy.pkg`  
