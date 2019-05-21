@@ -20,7 +20,7 @@ Windows的用户可以按照自己的系统下载对于版本，如图所示
 ## MacOS
 ![](./assets/qgis-download-mac.png)
 
-### QGIS3
+## QGIS3安装
 MacOS的用户在安装QGIS3前，需要先安装依赖[Python3.6](https://www.python.org/downloads/release/python-368/)，注意python3.7不可以，一定是Python3.6。
 ![](assets/python3.png)
 
@@ -30,7 +30,7 @@ QGIS3 安装好之后，可在菜单栏`settings`-->`Options`中将界面改成�
 ![](assets/qgis3-chinese.jpg)
 
 
-### QGIS2
+## QGIS2安装
 QGIS2系列不需要先安装python，直接打开安装包，然后按照
 - `1 GDAL Compelete.pkg`  
 - `2 NumPy.pkg`  
