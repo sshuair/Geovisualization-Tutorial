@@ -2,6 +2,12 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ElectoralCollege2016.svg/1600px-ElectoralCollege2016.svg.png)
 
+
+### 文件说明
+- USA-election-2016.geojson: 数据文件
+- USA-election-2016.qgz: QGIS3的工程文件
+- USA-election-2016.qgs: QGIS2的工程文件
+
 ### 样式配置
 1. 符号化：分类图
 2. 列：winner

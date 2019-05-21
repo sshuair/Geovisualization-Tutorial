@@ -3,7 +3,10 @@
 
 ![migrants_photo](./assets/migrants_files.jpeg)
 
-
+### 文件说明
+- USA-election-2016.geojson: 数据文件
+- migration.qgz: QGIS3的工程文件
+- migration.qgs: QGIS2的工程文件
 
 ## 颜色配置：
 ### 1. migrants file图层
